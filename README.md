@@ -3,16 +3,16 @@
 <br />
 <img src="https://discordpy.readthedocs.io/en/stable/_images/snake_dark.svg" width="546" alt="discord.js" />
 <br />
-<img  src="https://img.shields.io/github/stars/FiveSquareCo/discord-bot-template?style=for-the-badge">
-<img src="https://img.shields.io/github/forks/FiveSquareCo/discord-bot-template?label=uses%2Fcontrubutions&style=for-the-badge">
-<img src="https://img.shields.io/github/license/FiveSquareCo/discord-bot-template?style=for-the-badge">
+<img  src="https://img.shields.io/github/stars/SemHiel/Mediacollege-Bot?style=for-the-badge">
+<img src="https://img.shields.io/github/forks/SemHiel/Mediacollege-Bot?label=uses%2Fcontrubutions&style=for-the-badge">
+<img src="https://img.shields.io/github/license/SemHiel/Mediacollege-Bot?style=for-the-badge">
 </div>
 
-# Table of contents
+# Inhoudsopgave
 
-- [Note](#note)
-- [Prerequisites](#prerequisites)
-- [About](#About)
+- [Opmerking](#opmerking)
+- [Vereisten](#Vereisten)
+- [Over](#Over)
   - [What is This?](#What-is-this?)
   - [Why This Project?](#Why-This-Project)
 - [Functionalities](#Functionalities)
@@ -27,62 +27,27 @@
 <!-- About -->
 <br />
 
-# Note
+# Opmerking
 
-We add new features, fix bugs and many more, Periodically. Make sure you are being updated with your bot.
+Deze bot wordt vaak geupgrade, bij gebruik zorg dat je hem vaak genoeg update.
 
-# Prerequisites
+# Vereisten
 
-It's good to have a prior knowledge of JavaScript, Discord.js library and Discord. If you don't have any idea of the three links mentioned above then this project is not meant for you, this is a template for all those who wants to design their personal server or they designing the server for others.
+Het is goed om kennis te hebben van Python, Discord.py library en Discord. Als je geen kennis hebt van de drie bovengenoemde dingen, dan is dit project niet voor jou bedoeld.
 
-One more important notice that, This project uses [WOKCommands](https://www.npmjs.com/package/wokcommands) Command system. If you personally have knowledge about this command system it would be efficient and useful for you to improve quality and the features of this project.
+# Over
 
-# About
+Dit is een volledig open-source Discord bot die gemaakt is door [Sem Hiel](https://github.com/SemHiel).
 
-This is a Fully Coustomizable discord.js bot Template made by [Five Square Co.](https://github.com/FiveSquareCo) for all your Discord needs as a discord server designer.
+## Wat is het?
 
-## What is This?
+Dit is een Discord.py bot die ik voor de opdracht Input-Output mee bezig ben. Dit project zal later ook open-source worden zodat andere mensen hem kunnen gebruiken.
 
-This is a Discord.js bot Template which is easily configurable, it will be more helpful for you if you are a Freelancer in any Discord server or bot designer or you wish to design your own community server with your own personalized bot, This project will be so useful for you.
+## Waarom heb ik dit gekozen?
 
-## Why This Project?
+Het leek me heel leuk om wat nieuws te leren en in een andere taal te werken. Daarom heb ik gekozen om een discord bot te maken. Je kan hier alles mee doen wat je zal willen en er zijn zoveel mogelijkheden. Ook vindt ik het leuk dat je het real-time kan bewerken en zien wat je veranderd hebt en maakt.
 
-There is no actual answer for this question! We the Team of [Five Square Co.](https://github.com/FiveSquareCo) design discord Servers for communities, Esport organizations, streamers etc. We design bot for you with your own personal name tag, then we had a thought about the existence of other Freelancers like us out there, then we decided to give all those friends free bot template and make their Server designing Works easier and uncomplicated.
-
-# Functionalities
-
-## Features
+## Functies
 
 ## Commands
 
-# Configuration
-
-# Add Your Own
-
-# Hosting
-
-You can host this bot any where as your wish if you dont know how to host, We recommend you watching these videos -
-
-##### Free Limited
-
-All the options below wont't provide 24/7 free hosting you need to pay at some point of time to continue hosting, if you can pay these are best solutions.
-
-**Heroku** - [Click here to watch](https://youtu.be/OFearuMjI4s) <br />
-**Digital Ocean** - [Click here to watch](https://youtu.be/lskn1Xr-q8E) <br />
-**AWS** - [Click here to watch](https://youtu.be/bAnmI4mwGcs) <br/>
-
-#### Free
-
-All the options below provide 24/7 hosting but these to have some cons, if you have some money to host you can choose one of these [Options](#free-limited)
-|
-**Repl.it** - [Click here to know more](https://repl.it/talk/learn/Hosting-discordjs-bots-on-replit-Works-for-both-discordjs-and-Eris/11027)
-
-**Glitch** - [Click here to watch](https://www.youtube.com/watch?v=uv0hcWw7jdA)
-
-# Contributing
-
-If you are interested in Contributing to this project you can do that, but before doing that make sure you read [Contrubuting](https://github.com/FiveSquareCo/discord-bot-template/blob/main/CONTRUBUTING.md) file.
-
-# Help
-
-for any sort of help feel free to contact us on our [Instagram](https://www.instagram.com/fivesquarein/) or else you can even join our [Discord Server](https://discord.gg/R5yfU3Ve7H), in our discord server you can talk to our team and clarify your queries
