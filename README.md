@@ -3,7 +3,7 @@
 <br />
 <img src="https://discordpy.readthedocs.io/en/stable/_images/snake_dark.svg" width="546" alt="discord.js" />
 <br />
-<img  src="https://img.shields.io/github/stars/SemHiel/Mediacdalege-Bot?style=for-the-badge">
+<img  src="https://img.shields.io/github/stars/SemHiel/Mediacollege-Bot?style=for-the-badge">
 <img src="https://img.shields.io/github/forks/SemHiel/Mediacollege-Bot?label=uses%2Fcontrubutions&style=for-the-badge">
 <img src="https://img.shields.io/github/license/SemHiel/Mediacollege-Bot?style=for-the-badge">
 </div>
